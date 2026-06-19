@@ -8,6 +8,13 @@
 ## EC2 Instances
 
 <img width="1611" height="462" alt="Screenshot 2026-06-19 174135" src="https://github.com/user-attachments/assets/8511f07c-f88a-4ce1-8509-a7fff95907ca" />
+##server one web page
+<img width="1901" height="866" alt="server-1-webpage" src="https://github.com/user-attachments/assets/b8fbef67-a7f8-4d3c-ae64-21bf0aecf954" />
+
+##server two webpage
+<img width="1901" height="807" alt="server-2webpage" src="https://github.com/user-attachments/assets/e63d8a34-d282-49cb-ac41-a16da19dbd31" />
+
+
 
 
 ## Target Group
